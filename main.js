@@ -1,21 +1,21 @@
 const slideData = [
   {
-    source: "/heros/forsiden.jpg",
+    source: "./heros/forsiden.jpg",
     alt: "Billede 1",
     description: "LaLa Billede1",
   },
   {
-    source: "/products/product1.jpg",
+    source: "./products/product1.jpg",
     alt: "Billede 2",
     description: "LaLa Billede2",
   },
   {
-    source: "/products/product2.jpg",
+    source: "./products/product2.jpg",
     alt: "Billede 3",
     description: "LaLa Billede3",
   },
   {
-    source: "/products/product3.jpg",
+    source: "./products/product3.jpg",
     alt: "Billede 4",
     description: "LaLa Billede4",
   },
