@@ -1,6 +1,6 @@
 const slideData = [
   {
-    source: "heros/forsiden.jpg",
+    source: "heros/forsiden.JPG",
     alt: "Billede 1",
     description: "LaLa Billede1",
   },
