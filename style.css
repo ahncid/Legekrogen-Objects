@@ -300,7 +300,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/heros/produkter.jpg);
+  background-image: url(./heros/produkter.jpg);
   min-height: 924px;
   max-width: 1920px;
   background-repeat: no-repeat;
